@@ -121,3 +121,21 @@ If things go well, this section should automatically be replaced by a list of yo
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=connectdipta&&style=flat-square" align="center" />
 </div>
+
+
+---
+
+## 🕹️ Games & Fun Animations
+
+<div align="center">
+
+<!-- 🐍 Snake Animation -->
+<img src="https://raw.githubusercontent.com/connectdipta/connectdipta/output/snake.svg" alt="Snake animation" />
+
+<!-- 👾 Pac-Man Animation -->
+<img src="https://raw.githubusercontent.com/connectdipta/connectdipta/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
+
+</div>
+
+---
+
