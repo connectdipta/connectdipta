@@ -5,29 +5,19 @@ README.md for Dipta Acharjee (Dracula/Dark Themed, Fun Additions, Rich Tech Stac
 <img src="https://i.postimg.cc/T3ZX361X/GITHUB-Cover.png" alt="Profile Banner" width="100%" />
 
 <h1 align="center">Hi! I'm DIPTA ACHARJEE</h1>
-<em align="center">Stay curious • Stay creative • Stay codey!</em><br/>
+<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 <p align="center">
+<em>Stay curious • Stay creative • Stay codey!</em><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=B8860B&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer;Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p> 
 
 --- 
   
-
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<p align="center">
-  <em>Stay curious • Stay creative • Stay codey!</em><br/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=print(%22Hello%2C+World!%22);Keep+Coding+in+the+Dark...;Always+Learning+Something+New!&font=Fira%20Code&center=true&width=420&height=45&duration=4000&pause=1000&color=8be9fd" />
-</p>
-
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlveWc5MnpndG93MzR1NDc2bThkYzd6dm43OW5yNXgzazluMmk0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" align="center" style="width: 100%; border-radius:16px; box-shadow: 0 0 15px #444;" />
 </div>
 
 ---
-
-<h2 align="center">Hi 👋, I'm Dipta Acharjee</h2>
-<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
 <div align="right">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" height="160" />
