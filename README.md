@@ -12,10 +12,14 @@ README.md for Dipta Acharjee (Dracula/Dark Themed, Fun Additions, Rich Tech Stac
 </p> 
 
 --- 
-  
+## 🧑‍💻 About Me 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlveWc5MnpndG93MzR1NDc2bThkYzd6dm43OW5yNXgzazluMmk0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" align="center" style="width: 100%; border-radius:16px; box-shadow: 0 0 15px #444;" />
 </div>
+
+I’m a MERN Stack developer from Bangladesh with a passion for building modern, user friendly websites. I work mainly with JavaScript and tools like React, Next.js, Tailwind CSS, Firebase, and Vite to create clean, responsive web apps. I enjoy solving real world problems through code, learning new technologies, and sharing useful projects and coding tips with others.
+
+---  
 
 ---
 
