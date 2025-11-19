@@ -5,6 +5,7 @@ README.md for Dipta Acharjee (Dracula/Dark Themed, Fun Additions, Rich Tech Stac
 <img src="https://i.postimg.cc/T3ZX361X/GITHUB-Cover.png" alt="Profile Banner" width="100%" />
 
 <h1 align="center">Hi! I'm DIPTA ACHARJEE</h1>
+<em>Stay curious • Stay creative • Stay codey!</em><br/>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=B8860B&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer;Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p> 
