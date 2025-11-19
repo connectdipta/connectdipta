@@ -96,9 +96,6 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
   <a href="https://www.facebook.com/dipto.acharjee.694177" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
-  <a href="https://www.instagram.com/dipto_ajee" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
   <a href="https://www.youtube.com/@diptoraj1635" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
   </a>
