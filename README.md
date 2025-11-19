@@ -21,7 +21,6 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 
 ---  
 
----
 ## 🚀 Current Activities
 <div align="right">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" height="160" />
@@ -39,11 +38,9 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 - 🌐 My Portfolio: [connectdipta.github.io/portfolio](https://sites.google.com/diu.edu.bd/dipta-acharjee)
 - * 📞 Mobile/whatsapp: **+880 1844858504**
   <br/>
-  <br/> 
 
 ---
 
-<br/> 
 <br/> 
 <br/> 
 
