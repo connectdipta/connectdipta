@@ -22,7 +22,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 ---  
 
 ---
-
+## 🚀 Current Activities
 <div align="right">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" height="160" />
 </div>  
@@ -36,9 +36,8 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 - 🤝 Open for **freelance and collaborative opportunities**
 - 💬 Ask me **about JavaScript, React, or MongoDB!**
 - 📫 Reach me at: **connectdipta@gmail.com**
-- 🌐 My Portfolio: [connectdipta.github.io/portfolio](https://connectdipta.github.io/portfolio)
-- ⚡ Fun fact: **Dark theme = better code 😉**
-- 🕹️ Scroll down for **games & cool GitHub visuals!**
+- 🌐 My Portfolio: [connectdipta.github.io/portfolio](https://sites.google.com/diu.edu.bd/dipta-acharjee)
+- * 📞 Mobile/whatsapp: **+880 1844858504**
   <br/>
   <br/> 
 
@@ -61,12 +60,6 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=connectdipta&radius=14&theme=dracula&area=true" height="300"/>
 </div>
-
----
-
-## <div align="center" id="games-and-fun">🕹️ Fun in My README</div>
-
-<img src="https://raw.githubusercontent.com/connectdipta/connectdipta/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -100,26 +93,19 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
   <a href="https://github.com/connectdipta" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="https://www.linkedin.com/in/connectdipta" target="_blank">
+  <a href="https://www.linkedin.com/in/dipta-acharjee-ab6bb2301" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://www.facebook.com/connectdipta" target="_blank">
+  <a href="https://www.facebook.com/dipto.acharjee.694177" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
-  <a href="https://www.instagram.com/connectdipta" target="_blank">
+  <a href="https://www.instagram.com/dipto_ajee" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
-  <a href="https://www.youtube.com/@connectdipta" target="_blank">
+  <a href="https://www.youtube.com/@diptoraj1635" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
   </a>
 </div>
-
----
-
-## <div align="center">Recent Blog Posts</div>
-<!-- BLOG-POST-LIST:START -->
-If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
