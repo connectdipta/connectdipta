@@ -58,6 +58,26 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=connectdipta&radius=14&theme=dracula&area=true" height="300"/>
 </div>
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center">
+
+  <a href="https://github.com/connectdipta/artify-client" align="left">
+    <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+
+  <a href="https://github.com/connectdipta/my-skillswap-project" align="center">
+    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=my-skillswap-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+
+  <a href="https://github.com/connectdipta/crop-mate" align="right">
+    <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=crop-mate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
 ---
 
 <div align="center">
