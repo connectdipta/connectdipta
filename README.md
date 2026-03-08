@@ -35,7 +35,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 - 🤝 Open for **freelance and collaborative opportunities**
 - 💬 Ask me **about JavaScript, React, or MongoDB!**
 - 📫 Reach me at: **connectdipta@gmail.com**
-- 🌐 My Portfolio: [connectdipta.github.io/portfolio](https://sites.google.com/diu.edu.bd/dipta-acharjee)
+- 🌐 My Portfolio: [connectdipta.github.io/portfolio](https://portfolio-dipto.netlify.app)
 - * 📞 Mobile/whatsapp: **+880 1844858504**
   <br/>
 
