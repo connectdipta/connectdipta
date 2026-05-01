@@ -153,6 +153,12 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
 </div>
 
+## 🐍 Snake Contribution Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/connectdipta/connectdipta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ## Contact
 
 - Email: connectdipta@gmail.com
