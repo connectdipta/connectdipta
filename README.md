@@ -89,15 +89,13 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 
 <div align="center">
   <a href="https://github.com/connectdipta/artify-client">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&title_color=50FA7B&text_color=c9d1d9&icon_color=50FA7B&bg_color=282a36&hide_border=true" alt="artify-client" />
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&theme=dracula&hide_border=true" alt="artify-client" />
   </a>
   <a href="https://github.com/connectdipta/my-skillswap-project">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=my-skillswap-project&title_color=50FA7B&text_color=c9d1d9&icon_color=50FA7B&bg_color=282a36&hide_border=true" alt="my-skillswap-project" />
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=my-skillswap-project&theme=dracula&hide_border=true" alt="my-skillswap-project" />
   </a>
-</div>
-<div align="center" style="margin-top: 10px;">
   <a href="https://github.com/connectdipta/crop-mate">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=crop-mate&title_color=50FA7B&text_color=c9d1d9&icon_color=50FA7B&bg_color=282a36&hide_border=true" alt="crop-mate" />
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=crop-mate&theme=dracula&hide_border=true" alt="crop-mate" />
   </a>
 </div>
 
