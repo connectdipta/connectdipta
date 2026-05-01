@@ -90,25 +90,25 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 <div align="center">
 
 <a href="https://github.com/connectdipta/zapshift">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=zapshift&theme=dracula&hide_border=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=zapshift&theme=dracula&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/connectdipta/skillspire-client-2.0">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=skillspire-client-2.0&theme=dracula&hide_border=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=skillspire-client-2.0&theme=dracula&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/connectdipta/Flaree">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=Flaree&theme=dracula&hide_border=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=Flaree&theme=dracula&hide_border=true&cache_seconds=86400" />
 </a>
 
 <br/>
 
 <a href="https://github.com/connectdipta/CropMate_AI">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=CropMate_AI&theme=dracula&hide_border=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=CropMate_AI&theme=dracula&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/connectdipta/artify-client">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&theme=dracula&hide_border=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&theme=dracula&hide_border=true&cache_seconds=86400" />
 </a>
 
 </div>
