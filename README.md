@@ -1,22 +1,25 @@
-<img src="https://i.postimg.cc/T3ZX361X/GITHUB-Cover.png" alt="Dipta Acharjee profile banner" width="100%" />
+<!--
+README.md for Dipta Acharjee (Dracula/Dark Themed, Fun Additions, Rich Tech Stack)
+-->
+ <!-- Banner Image -->
+<img src="https://i.postimg.cc/T3ZX361X/GITHUB-Cover.png" alt="Profile Banner" width="100%" />
 
-<h1 align="center">Dipta Acharjee</h1>
+<h1 align="center">Hi! I'm DIPTA ACHARJEE</h1>
+<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 <p align="center">
-  Full-Stack Web Developer (MERN) from Bangladesh<br/>
-  Building scalable, user-focused web products with modern JavaScript tooling.
-</p>
-
-<p align="center">
-  <a href="https://portfolio-dipto.netlify.app">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/dipta-acharjee-ab6bb2301">LinkedIn</a> |
-  <a href="mailto:connectdipta@gmail.com">Email</a>
+<em>Stay curious • Stay creative • Stay codey!</em><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=B8860B&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer;Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
+## 🧑‍💻 About Me
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlveWc5MnpndG93MzR1NDc2bThkYzd6dm43OW5yNXgzazluMmk0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" align="center" style="width: 100%; border-radius:16px; box-shadow: 0 0 15px #444;" />
+</div>
 
-## Professional Summary
+I’m a MERN Stack developer from Bangladesh with a passion for building modern, user friendly websites. I work mainly with JavaScript and tools like React, Next.js, Tailwind CSS, Firebase, and Vite to create clean, responsive web apps. I enjoy solving real world problems through code, learning new technologies, and sharing useful projects and coding tips with others.
 
-I am a full-stack developer focused on delivering reliable, production-ready web applications. My core strength is building end-to-end products with the MERN stack, from clean front-end experiences to API and database design. I care about code quality, performance, maintainability, and meaningful user outcomes.
+---
 
 ## Current Focus
 
