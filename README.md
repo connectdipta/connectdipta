@@ -12,7 +12,7 @@ README.md for Dipta Acharjee (Dracula/Dark Themed, Fun Additions, Rich Tech Stac
 </p>
 
 ---
-## 🧑‍💻 About Me
+## About Me
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlveWc5MnpndG93MzR1NDc2bThkYzd6dm43OW5yNXgzazluMmk0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" align="center" width="50%" />
 </div>
@@ -21,20 +21,20 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 
 ---
 
-## 🚀 Current Activities
+## Current Activities
 
 <div align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" height="160" alt="Coding activity" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" height="150" alt="Coding activity" />
 </div>
 
-- 🔭 I’m currently working on **MERN stack projects and backend scaling**
-- 🌱 Always learning: **Advanced React, Next.js, and System Architecture**
-- 👯 Looking to **collaborate on open-source and innovative products**
-- 🤝 Open for **freelance and long-term collaborative opportunities**
-- 💬 Ask me about **JavaScript, React, Node.js, and Full-Stack Development**
-- 📫 Reach me at **connectdipta@gmail.com**
+- 🔭 Currently building **scalable full-stack applications (MERN + Flask AI systems)**
+- 🌱 Exploring **Advanced React, Next.js, and System Design**
+- 👯 Open to **open-source collaboration and innovative product development**
+- 💼 Available for **freelance projects and long-term opportunities**
+- 💬 Strong in **JavaScript, React, Node.js, MongoDB, Firebase**
+- 📫 Email: **connectdipta@gmail.com**
 - 🌐 Portfolio: [portfolio-dipto.netlify.app](https://portfolio-dipto.netlify.app)
-- 📞 WhatsApp: **+880 1844858504**
+- 📞 WhatsApp: **+8801844858504**
 
 ## Socials
 
@@ -45,11 +45,11 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 
 ## Core Stack
 
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, Tailwind CSS, HTML5, CSS3
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, Firebase, Vite, Figma
+- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase Firestore  
+- **Tools & Platforms:** Git, GitHub, Firebase, Vite, Figma 
 
 ## Tech Stack
 
