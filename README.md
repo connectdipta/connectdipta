@@ -87,31 +87,31 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 
 ## Featured Repositories
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/connectdipta/zapshift">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=zapshift&theme=dracula&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/ZapShift-Logistics%20Platform-blue?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/connectdipta/skillspire-client-2.0">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=skillspire-client-2.0&theme=dracula&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/SkillSpire-Contest%20Platform-purple?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/connectdipta/Flaree">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=Flaree&theme=dracula&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/Flaree-Dating%20App-pink?style=for-the-badge&logo=github" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/connectdipta/CropMate_AI">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=CropMate_AI&theme=dracula&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/CropMate-AI%20Crop%20System-green?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/connectdipta/artify-client">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&theme=dracula&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/Artify-Art%20Platform-orange?style=for-the-badge&logo=github" />
 </a>
 
-</div>
+</p>
 
 ## GitHub Metrics
 
