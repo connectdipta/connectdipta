@@ -88,15 +88,29 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 ## Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/connectdipta/artify-client">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&theme=dracula&hide_border=true" alt="artify-client" />
-  </a>
-  <a href="https://github.com/connectdipta/my-skillswap-project">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=my-skillswap-project&theme=dracula&hide_border=true" alt="my-skillswap-project" />
-  </a>
-  <a href="https://github.com/connectdipta/crop-mate">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=crop-mate&theme=dracula&hide_border=true" alt="crop-mate" />
-  </a>
+
+<a href="https://github.com/connectdipta/zapshift">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=zapshift&theme=dracula&hide_border=true" />
+</a>
+
+<a href="https://github.com/connectdipta/skillspire-client-2.0">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=skillspire-client-2.0&theme=dracula&hide_border=true" />
+</a>
+
+<a href="https://github.com/connectdipta/Flaree">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=Flaree&theme=dracula&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/connectdipta/CropMate_AI">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=CropMate_AI&theme=dracula&hide_border=true" />
+</a>
+
+<a href="https://github.com/connectdipta/artify-client">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=connectdipta&repo=artify-client&theme=dracula&hide_border=true" />
+</a>
+
 </div>
 
 ## GitHub Metrics
