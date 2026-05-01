@@ -116,16 +116,23 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 ## GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=connectdipta&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectdipta&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="160" alt="Top languages" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=connectdipta&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=connectdipta&layout=compact&theme=transparent&hide_border=true" height="160"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=connectdipta&theme=transparent&hide_border=true" height="160" alt="GitHub streak" />
+
+<img src="https://streak-stats.demolab.com?user=connectdipta&theme=transparent&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=connectdipta&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=connectdipta&theme=github-compact&hide_border=true"/>
+
 </div>
 
 ## Commit and Contribution Highlights
