@@ -156,7 +156,7 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 ## 🐍 Snake Contribution Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/connectdipta/connectdipta/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg" alt="Snake Grid" />
 </div>
 
 ## Contact
