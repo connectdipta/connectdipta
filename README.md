@@ -89,6 +89,7 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 
 <p align="center">
 
+<!-- Row 1 -->
 <a href="https://github.com/connectdipta/zapshift">
   <img src="https://img.shields.io/badge/ZapShift-Logistics%20Platform-blue?style=for-the-badge&logo=github" />
 </a>
@@ -101,8 +102,11 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
   <img src="https://img.shields.io/badge/Flaree-Dating%20App-pink?style=for-the-badge&logo=github" />
 </a>
 
-<br/><br/>
+</p>
 
+<p align="center">
+
+<!-- Row 2 (now perfectly centered) -->
 <a href="https://github.com/connectdipta/CropMate_AI">
   <img src="https://img.shields.io/badge/CropMate-AI%20Crop%20System-green?style=for-the-badge&logo=github" />
 </a>
@@ -138,12 +142,17 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 ## Commit and Contribution Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=connectdipta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="165" alt="Commit-focused GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=connectdipta&theme=dracula&utcOffset=6" height="165" alt="Most productive commit time" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=connectdipta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=connectdipta&theme=dracula&utcOffset=6" height="165"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connectdipta&theme=dracula" alt="Contribution timeline details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connectdipta&theme=dracula"/>
+
 </div>
 
 ## Recent Projects
