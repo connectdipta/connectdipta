@@ -7,17 +7,17 @@ README.md for Dipta Acharjee (Dracula/Dark Themed, Fun Additions, Rich Tech Stac
 <h1 align="center">Hi! I'm DIPTA ACHARJEE</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 <p align="center">
-<em>Stay curious • Stay creative • Stay codey!</em><br/>
+<em>Stay curious • Stay creative • Keep coding!</em><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=B8860B&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer;Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
 ## 🧑‍💻 About Me
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlveWc5MnpndG93MzR1NDc2bThkYzd6dm43OW5yNXgzazluMmk0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" align="center" style="width: 100%; border-radius:16px; box-shadow: 0 0 15px #444;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlveWc5MnpndG93MzR1NDc2bThkYzd6dm43OW5yNXgzazluMmk0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" align="center" width="100%" />
 </div>
 
-I’m a MERN Stack developer from Bangladesh with a passion for building modern, user friendly websites. I work mainly with JavaScript and tools like React, Next.js, Tailwind CSS, Firebase, and Vite to create clean, responsive web apps. I enjoy solving real world problems through code, learning new technologies, and sharing useful projects and coding tips with others.
+I am a MERN Stack Developer based in Bangladesh, passionate about building modern, user-friendly web applications. I specialize in JavaScript and utilize tools such as React, Next.js, Tailwind CSS, Node.js, and MongoDB to architect clean, responsive, and scalable solutions. I am dedicated to solving real-world challenges through efficient code, continuously expanding my technical skill set, and contributing to collaborative projects.
 
 ---
 
@@ -27,11 +27,11 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" height="160" alt="Coding activity" />
 </div>
 
-- 🔭 I’m currently working on **MERN projects and backend scaling**
-- 🌱 Always learning: **React, Node.js, Next.js, and system design basics**
-- 👯 Looking to **collaborate on open-source and creative products**
+- 🔭 I’m currently working on **MERN stack projects and backend scaling**
+- 🌱 Always learning: **Advanced React, Next.js, and System Architecture**
+- 👯 Looking to **collaborate on open-source and innovative products**
 - 🤝 Open for **freelance and long-term collaborative opportunities**
-- 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**
+- 💬 Ask me about **JavaScript, React, Node.js, and Full-Stack Development**
 - 📫 Reach me at **connectdipta@gmail.com**
 - 🌐 Portfolio: [portfolio-dipto.netlify.app](https://portfolio-dipto.netlify.app)
 - 📞 WhatsApp: **+880 1844858504**
@@ -65,7 +65,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
