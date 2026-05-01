@@ -41,7 +41,7 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 
 <td width="35%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGgzdWdiZ3puYnV4YzVmazI0NDMwNjQ1N3IydHh3MmF1endmY3d2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="180"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGgzdWdiZ3puYnV4YzVmazI0NDMwNjQ1N3IydHh3MmF1endmY3d2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="90%"/>
 
 </td>
 </tr>
