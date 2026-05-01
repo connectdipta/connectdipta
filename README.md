@@ -21,12 +21,20 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 
 ---
 
-## Current Focus
+## 🚀 Current Activities
 
-- Building and refining full-stack MERN projects
-- Deepening backend architecture and scaling knowledge
-- Collaborating on open-source and freelance opportunities
-- Improving developer workflow, testing, and deployment practices
+<div align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" height="160" alt="Coding activity" />
+</div>
+
+- 🔭 I’m currently working on **MERN projects and backend scaling**
+- 🌱 Always learning: **React, Node.js, Next.js, and system design basics**
+- 👯 Looking to **collaborate on open-source and creative products**
+- 🤝 Open for **freelance and long-term collaborative opportunities**
+- 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**
+- 📫 Reach me at **connectdipta@gmail.com**
+- 🌐 Portfolio: [portfolio-dipto.netlify.app](https://portfolio-dipto.netlify.app)
+- 📞 WhatsApp: **+880 1844858504**
 
 ## Socials
 
@@ -105,6 +113,33 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=connectdipta&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
 </div>
+
+## Commit and Contribution Highlights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=connectdipta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="165" alt="Commit-focused GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=connectdipta&theme=dracula&utcOffset=6" height="165" alt="Most productive commit time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connectdipta&theme=dracula" alt="Contribution timeline details" />
+</div>
+
+## Recent Projects
+
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| Artify Client | Creative platform for art-focused user workflows | React, Tailwind, Firebase | [Repository](https://github.com/connectdipta/artify-client) |
+| My SkillSwap Project | Skill exchange and collaboration platform | MERN Stack | [Repository](https://github.com/connectdipta/my-skillswap-project) |
+| Crop Mate | Agriculture-focused product support application | React, Node.js, MongoDB | [Repository](https://github.com/connectdipta/crop-mate) |
+| Personal Portfolio | Personal brand, projects, and contact hub | React, Vite, Tailwind | [Live Site](https://portfolio-dipto.netlify.app) |
+
+## Open To
+
+- Full-stack web development opportunities
+- Freelance projects and contract work
+- Open-source collaboration
+- Team projects where product quality and UX matter
 
 ## GitHub Trophies
 
