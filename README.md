@@ -34,7 +34,7 @@ I am a MERN Stack Developer based in Bangladesh, passionate about building moder
 - 💼 Available for **freelance projects and long-term opportunities**  
 - 💬 Strong in **JavaScript, React, Node.js, MongoDB, Firebase**  
 - 📫 Email: **connectdipta@gmail.com**  
-- 🌐 Portfolio: [portfolio-dipto.netlify.app](https://portfolio-dipto.netlify.app)  
+- 🌐 Portfolio: [portfolio-dipto.netlify.app](https://portfolio-dipta.netlify.app)  
 - 📞 WhatsApp: **+8801844858504**
 
 </td>
